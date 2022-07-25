@@ -9,7 +9,7 @@ const App = () => {
           <SearchBar />
           <div className="w-[calc(100vw-550px)]  h-screen">
             <iframe
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3650.9703741164935!2d90.42340071478476!3d23.784069284572755!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755c793ffffffff%3A0x7aefdbe12c0d44e3!2sSuffix%20IT!5e0!3m2!1sen!2sbd!4v1626157761213!5m2!1sen!2sbd"
+              src=""
               width="100%"
               className="h-screen"
               title="barikoi"
